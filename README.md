@@ -18,6 +18,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Svn](https://img.shields.io/badge/Subversion-809CC9.svg?&style=for-the-badge&logo=Subversion&logoColor=white)
 
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
+
 
 <!--
 **jemining/jemining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
