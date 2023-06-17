@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jemin%20Github&fontSize=70" />
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjemining&count_bg=%23CD7D0F&title_bg=%23C42626&icon=bandcamp.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 
 # Skills
